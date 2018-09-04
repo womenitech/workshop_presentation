@@ -1627,7 +1627,7 @@ input::before, input::after {
   /*max-width: 50px !important;*/
 }
 input::before {
-  left: calc(-4vw + 1px) !important;
+  left: calc(-2.5vw + 1px) !important;
 }
 input::after {
   right: calc(-4vw + 1px) !important;
@@ -1726,4 +1726,8 @@ input:checked + .dot-info span {
   overflow: hidden !important;
   border: none !important;
   max-width: 100% !important;
+}
+.wit-img-flip{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
 }
