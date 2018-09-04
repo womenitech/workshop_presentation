@@ -1753,7 +1753,7 @@ input:checked + .dot-info span {
   width: 45px;
   height: 3px;
   background: #000;
-  margin: 6px;
+  margin: 17px auto auto 0px;
 }
 #cssHead {
   margin: 0px auto;
@@ -1885,26 +1885,26 @@ input:checked + .dot-info span {
 }
 /*CSS animation END*/
 
-htmlEye {
+.htmlEye {
   border: 1px solid #000;
   display: inline-block;
-  -webkit-border-radius: 20px;
-  border-radius: 20px;
+  -webkit-border-radius: 20px !important;
+  border-radius: 20px !important;
 }
 .wraphtmlEye {
   background-color: #DDD;
-  margin: 6px;
-  padding: 4px;
-  width: 25px;
-  height: 25px;
+  margin: 6px !important;
+  padding: 4px !important;
+  width: 25px !important;
+  height: 25px !important;
 }
 .htmlPupil {
-  width: 12px;
-  background: #000;
-  height: 12px;
-  margin: 6px 4px 3px;
-  -webkit-border-radius: 20px;
-  border-radius: 20px;
+  width: 12px !important;
+  background: #000 !important;
+  height: 12px !important;
+  margin: 5px auto 30px auto !important;
+  -webkit-border-radius: 20px !important;
+  border-radius: 20px !important;
 }
 .rightEye {
   margin: 0;
