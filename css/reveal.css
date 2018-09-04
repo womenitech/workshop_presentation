@@ -1722,3 +1722,8 @@ input:checked + .dot-info span {
   flex-direction: column !important;
   justify-content: center !important;
 }
+.blobIframe {
+  overflow: hidden !important;
+  border: none !important;
+  max-width: 100% !important;
+}
