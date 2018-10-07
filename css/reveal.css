@@ -1974,3 +1974,9 @@ input:checked + .dot-info span {
 .wit-demo-display{
   display: inline-flex;
 }
+.logos_anniversary{
+  width: 300px;
+  height: 105px;
+  margin: 0 auto;
+}
+

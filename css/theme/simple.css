@@ -48,8 +48,8 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #000;
-  font-family: "News Cycle", Impact, sans-serif;
+  /*color: #000;*/
+  /*font-family: "News Cycle", Impact, sans-serif;*/
   font-weight: normal;
   line-height: 1.2;
   letter-spacing: normal;
@@ -83,7 +83,7 @@ body {
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 85%;
+  max-width: 100%;
   max-height: 500px; }
 
 .reveal strong,
